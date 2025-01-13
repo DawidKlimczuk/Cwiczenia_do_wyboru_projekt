@@ -9,7 +9,6 @@ Użytkownik może zalogować się za pomocą wstępnie zdefiniowanych kont:
 - **Użytkownicy:** user1 (hasło: password1), user2 (hasło: password2)
 
 Istnieje możliwość demonstracji podatności na SQL Injection, np. przez wpisanie loginu: admin'--.
-Po zalogowaniu wyświetlany jest odpowiedni komunikat.
 
 <div style="text-align: center;">
 --- LOGOWANIE ---<br>
